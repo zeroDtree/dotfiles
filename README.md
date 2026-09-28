@@ -1,6 +1,6 @@
 # dotfiles
 
-Personal macOS and Arch Linux configuration. **chezmoi manages config, mpm records software, and Git stores both.** The two systems are maintained separately. Nothing here installs software or syncs config automatically.
+Personal macOS and Arch Linux configuration. **[chezmoi](https://github.com/twpayne/chezmoi) manages config, [mpm](https://github.com/kdeldycke/meta-package-manager.git) records software, and Git stores both.** The two systems are maintained separately. Nothing here installs software or syncs config automatically.
 
 ## Layout
 
